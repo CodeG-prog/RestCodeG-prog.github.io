@@ -1,6 +1,3 @@
-# RestCodeG-prog.github.io
-Basic Food vendor website in progress
-
 
 <!DOCTYPE html>
 <html lang="en">
